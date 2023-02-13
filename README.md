@@ -1,4 +1,4 @@
-# Amazon Review Scraper using Selectorlib 
+# Amazon Review Scraper 
 
 A simple amazon scraper to extract product details and prices from Amazon.com using Python Requests and Selenium. This is the initial step required for generating dataset for perfomring Aspect Based Sentiment Analysis.
 ## Usage
